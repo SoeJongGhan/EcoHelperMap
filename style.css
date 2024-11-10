@@ -1,0 +1,23 @@
+.map {
+	width: 1920px;
+	height: 1080px;
+	background-color: #333;
+}
+
+[class*="copyrights-pane"] {
+	display: none !important;
+}
+
+
+
+.balloon__address {
+	color: orange;
+}
+
+.balloon a {
+	color: red;
+}
+
+[class*="balloon__close-button"] {
+	opacity: 1;
+}
